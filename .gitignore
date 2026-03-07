@@ -1,0 +1,10 @@
+# 敏感配置和状态文件
+.openclaw/
+.pi/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.log
+*.tmp
+*.swp
