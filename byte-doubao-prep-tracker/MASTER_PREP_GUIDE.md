@@ -187,6 +187,27 @@
 
 ---
 
+## 3.5 每日 LeetCode 原题（每天 1-2 道，贴近岗位）
+
+- Day1（03-08）：146. LRU Cache；981. Time Based Key-Value Store
+- Day2（03-09）：56. Merge Intervals；721. Accounts Merge
+- Day3（03-10）：692. Top K Frequent Words；347. Top K Frequent Elements
+- Day4（03-11）：973. K Closest Points to Origin；215. Kth Largest Element in an Array
+- Day5（03-12）：207. Course Schedule；210. Course Schedule II
+- Day6（03-13）：239. Sliding Window Maximum；295. Find Median from Data Stream
+- Day7（03-14）：253. Meeting Rooms II；621. Task Scheduler
+- Day8（03-15）：复练 146 + 239（强化面试表达）
+- Day9（03-16）：按错题本复盘 1-2 题（不新开重题）
+
+说明：
+- 这些题不是为了“押原题”，而是训练你下一轮最容易被考的能力：
+  - 数据结构设计（缓存/时间索引）
+  - Top-K 检索与排序
+  - 任务依赖与调度
+  - 在线指标与窗口统计
+
+---
+
 ## 4. 面试“反问环节”专业问题（每天背1题）
 
 1. 这个岗位3个月/6个月的核心成功指标是什么？
