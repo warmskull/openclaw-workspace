@@ -14,3 +14,5 @@
 - `MASTER_PREP_GUIDE.md`：**单文件一体化备战手册（建议只看这个）**
 - `ROADMAP.md`：整体冲刺节奏
 - `daily/YYYY-MM-DD.md`：每日任务清单与复盘（可选）
+- `weekly/YYYY-Wxx.md`：每周周报（持续更新）
+- `WEEKLY_REPORT_TEMPLATE.md`：周报模板
