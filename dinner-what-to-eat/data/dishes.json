@@ -1,0 +1,87 @@
+[
+  {
+    "id": "dish-001",
+    "name": "西班牙火腿薯条小菜",
+    "photo": "/images/spanish-ham-fries.jpg",
+    "category": "小食",
+    "tags": ["快手", "补能量", "碳水", "咸香"],
+    "prepTimeMin": 20,
+    "difficulty": "简单",
+    "caloriesKcal": 520,
+    "ingredients": [
+      "土豆 2个",
+      "西班牙火腿 50g",
+      "橄榄油 1-2勺",
+      "黑胡椒 少许",
+      "盐 少许"
+    ],
+    "steps": [
+      "土豆切条后擦干水分，少油煎或空气炸至金黄。",
+      "西班牙火腿切小片，小火翻热出香气。",
+      "混合薯条与火腿，撒黑胡椒即可。"
+    ],
+    "nutritionNote": "高能量小食，建议搭配蔬果一起吃。"
+  },
+  {
+    "id": "dish-002",
+    "name": "黑胡椒牛肉片",
+    "photo": "/images/black-pepper-beef.jpg",
+    "category": "主菜",
+    "tags": ["高蛋白", "快手", "增肌友好"],
+    "prepTimeMin": 18,
+    "difficulty": "简单",
+    "caloriesKcal": 430,
+    "ingredients": [
+      "牛肉片/牛排 250g",
+      "黑胡椒 1小勺",
+      "蒜末 少许",
+      "黄油/橄榄油 1勺",
+      "盐 少许"
+    ],
+    "steps": [
+      "牛肉提前回温，表面擦干，撒盐和黑胡椒。",
+      "热锅下油，双面煎至喜欢熟度。",
+      "静置2分钟后切片装盘，补撒黑胡椒。"
+    ],
+    "nutritionNote": "优质蛋白来源，晚饭搭配蔬果更均衡。"
+  },
+  {
+    "id": "dish-003",
+    "name": "三色圣女果拼盘",
+    "photo": "/images/cherry-tomato-platter.jpg",
+    "category": "配菜",
+    "tags": ["低卡", "清爽", "免烹饪"],
+    "prepTimeMin": 5,
+    "difficulty": "简单",
+    "caloriesKcal": 90,
+    "ingredients": [
+      "红色圣女果 100g",
+      "黄色圣女果 100g",
+      "绿色圣女果 100g"
+    ],
+    "steps": [
+      "清洗沥干后对半切或整颗装盘。",
+      "可根据口味加少许盐或黑胡椒。"
+    ],
+    "nutritionNote": "低卡高纤，适合搭配高蛋白主菜。"
+  },
+  {
+    "id": "dish-004",
+    "name": "草莓蓝莓水果拼盘",
+    "photo": "/images/berry-platter.jpg",
+    "category": "水果",
+    "tags": ["低卡", "抗氧化", "免烹饪"],
+    "prepTimeMin": 5,
+    "difficulty": "简单",
+    "caloriesKcal": 120,
+    "ingredients": [
+      "草莓 150g",
+      "蓝莓 80g"
+    ],
+    "steps": [
+      "草莓洗净去蒂，蓝莓洗净沥干。",
+      "摆盘后即食。"
+    ],
+    "nutritionNote": "适合做晚饭后水果。"
+  }
+]

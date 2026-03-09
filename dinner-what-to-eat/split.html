@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>多菜切图工具</title>
+  <style>
+    body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;margin:18px;}
+    canvas{max-width:100%;border:1px solid #ddd;border-radius:8px;cursor:crosshair;}
+    .toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;}
+    .rects{margin-top:10px;font-size:14px;color:#374151;}
+    button{padding:8px 12px;border-radius:8px;border:1px solid #d1d5db;background:#fff;cursor:pointer;}
+  </style>
+</head>
+<body>
+  <h1>多菜切图工具（手动框选）</h1>
+  <p>用于“单图多道菜”的分割：上传后，拖拽框选每道菜，点“导出全部”下载切好的图片。</p>
+
+  <div class="toolbar">
+    <input type="file" id="file" accept="image/*" />
+    <button id="undo">撤销最后一个框</button>
+    <button id="export">导出全部切图</button>
+  </div>
+  <canvas id="canvas" width="1080" height="720"></canvas>
+  <div class="rects" id="rects">当前框选：0</div>
+
+  <script>
+    const fileEl = document.getElementById('file');
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    const rectsEl = document.getElementById('rects');
+    const undoBtn = document.getElementById('undo');
+    const exportBtn = document.getElementById('export');
+
+    let img = null;
+    let rects = [];
+    let drawing = false;
+    let start = null;
+    let current = null;
+
+    fileEl.addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = () => {
+        img = new Image();
+        img.onload = () => {
+          canvas.width = img.width;
+          canvas.height = img.height;
+          rects = [];
+          render();
+        };
+        img.src = reader.result;
+      };
+      reader.readAsDataURL(file);
+    });
+
+    canvas.addEventListener('mousedown', (e) => {
+      if (!img) return;
+      drawing = true;
+      start = getPos(e);
+      current = start;
+    });
+
+    canvas.addEventListener('mousemove', (e) => {
+      if (!drawing) return;
+      current = getPos(e);
+      render();
+      drawRect(start, current, 'rgba(37,99,235,0.9)');
+    });
+
+    canvas.addEventListener('mouseup', (e) => {
+      if (!drawing) return;
+      drawing = false;
+      const end = getPos(e);
+      const rect = normalizeRect(start, end);
+      if (rect.w > 20 && rect.h > 20) rects.push(rect);
+      render();
+    });
+
+    undoBtn.onclick = () => {
+      rects.pop();
+      render();
+    };
+
+    exportBtn.onclick = async () => {
+      if (!img || !rects.length) return alert('请先框选区域');
+      for (let i = 0; i < rects.length; i++) {
+        const r = rects[i];
+        const out = document.createElement('canvas');
+        out.width = r.w;
+        out.height = r.h;
+        out.getContext('2d').drawImage(canvas, r.x, r.y, r.w, r.h, 0, 0, r.w, r.h);
+        const a = document.createElement('a');
+        a.href = out.toDataURL('image/jpeg', 0.92);
+        a.download = `dish_${i + 1}.jpg`;
+        a.click();
+        await new Promise(res => setTimeout(res, 180));
+      }
+    };
+
+    function getPos(e) {
+      const rect = canvas.getBoundingClientRect();
+      return { x: Math.round((e.clientX - rect.left) * (canvas.width / rect.width)), y: Math.round((e.clientY - rect.top) * (canvas.height / rect.height)) };
+    }
+
+    function normalizeRect(a, b) {
+      const x = Math.min(a.x, b.x);
+      const y = Math.min(a.y, b.y);
+      const w = Math.abs(a.x - b.x);
+      const h = Math.abs(a.y - b.y);
+      return { x, y, w, h };
+    }
+
+    function drawRect(a, b, color) {
+      const r = normalizeRect(a, b);
+      ctx.strokeStyle = color;
+      ctx.lineWidth = 3;
+      ctx.strokeRect(r.x, r.y, r.w, r.h);
+    }
+
+    function render() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      if (img) ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+      rects.forEach((r, idx) => {
+        ctx.strokeStyle = 'rgba(16,185,129,0.9)';
+        ctx.lineWidth = 3;
+        ctx.strokeRect(r.x, r.y, r.w, r.h);
+        ctx.fillStyle = 'rgba(16,185,129,0.9)';
+        ctx.fillText(`#${idx + 1}`, r.x + 4, r.y + 14);
+      });
+      rectsEl.textContent = `当前框选：${rects.length}`;
+    }
+  </script>
+</body>
+</html>

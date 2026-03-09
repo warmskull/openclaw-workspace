@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>上传美食照片包</title>
+  <style>
+    body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;max-width:760px;margin:36px auto;padding:0 16px;color:#111827}
+    .card{border:1px solid #e5e7eb;border-radius:14px;padding:18px}
+    button{border:0;background:#2563eb;color:#fff;padding:10px 14px;border-radius:10px;cursor:pointer}
+    .muted{color:#6b7280;font-size:14px}
+    .ok{color:#166534;white-space:pre-wrap}
+    .err{color:#b91c1c;white-space:pre-wrap}
+    .progress{height:10px;background:#e5e7eb;border-radius:999px;overflow:hidden;margin:10px 0}
+    .bar{height:100%;width:0;background:#2563eb;transition:width .2s}
+  </style>
+</head>
+<body>
+  <h1>上传美食照片包（稳定版）</h1>
+  <div class="card">
+    <p>请选择一个 <strong>.zip</strong> 文件上传给我处理（分片上传，适合大文件）。</p>
+    <input id="file" type="file" accept=".zip,.jpg,.jpeg,.png" />
+    <p style="margin-top:12px;"><button id="btn">开始上传</button></p>
+    <div class="progress"><div id="bar" class="bar"></div></div>
+    <p class="muted">分片大小 4MB，自动重试 3 次。支持最大 300MB。</p>
+    <pre id="log" class="muted"></pre>
+  </div>
+
+  <script>
+    const fileEl = document.getElementById('file');
+    const btn = document.getElementById('btn');
+    const log = document.getElementById('log');
+    const bar = document.getElementById('bar');
+
+    const CHUNK = 4 * 1024 * 1024; // 4MB
+    const RETRY = 3;
+
+    const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+    async function postChunk(url, blob, attempt = 1) {
+      try {
+        const res = await fetch(url, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/octet-stream' },
+          body: blob
+        });
+        const data = await res.json();
+        if (!res.ok || !data.ok) throw new Error(data.error || '上传失败');
+        return data;
+      } catch (e) {
+        if (attempt >= RETRY) throw e;
+        await sleep(700 * attempt);
+        return postChunk(url, blob, attempt + 1);
+      }
+    }
+
+    btn.onclick = async () => {
+      const file = fileEl.files[0];
+      if (!file) {
+        log.className = 'err';
+        log.textContent = '请先选择文件';
+        return;
+      }
+
+      const filename = file.name;
+      const total = Math.ceil(file.size / CHUNK);
+
+      log.className = 'muted';
+      log.textContent = `开始上传：${filename}\n大小：${(file.size/1024/1024).toFixed(1)}MB\n分片数：${total}`;
+      bar.style.width = '0%';
+
+      try {
+        for (let i = 0; i < total; i++) {
+          const start = i * CHUNK;
+          const end = Math.min(file.size, start + CHUNK);
+          const blob = file.slice(start, end);
+
+          const u = `/upload/chunk?filename=${encodeURIComponent(filename)}&index=${i}&total=${total}`;
+          await postChunk(u, blob);
+
+          const percent = Math.round(((i + 1) / total) * 100);
+          bar.style.width = `${percent}%`;
+          log.textContent = `上传中：${filename}\n进度：${i + 1}/${total} (${percent}%)`;
+        }
+
+        const fin = await fetch(`/upload/finish?filename=${encodeURIComponent(filename)}`, { method: 'POST' });
+        const data = await fin.json();
+        if (!fin.ok || !data.ok) throw new Error(data.error || '合并失败');
+
+        log.className = 'ok';
+        log.textContent = `已成功上传 ✅\n文件：${data.filename}\n大小：${(data.bytes/1024/1024).toFixed(1)}MB`;
+      } catch (e) {
+        log.className = 'err';
+        log.textContent = `上传失败：${e.message}\n请重试一次；若仍失败，我给你离线替代方案。`;
+      }
+    };
+  </script>
+</body>
+</html>
