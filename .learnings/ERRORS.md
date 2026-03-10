@@ -4,7 +4,8 @@
 
 **Logged**: 2026-03-08T16:06:21+08:00
 **Priority**: medium
-**Status**: pending
+**Status**: promoted
+**Promoted**: TOOLS.md
 **Area**: config
 
 ### Summary
@@ -35,7 +36,8 @@ Model "小熊api/gpt-5.3-codex" is not allowed.
 
 **Logged**: 2026-03-09T16:32:00+08:00
 **Priority**: medium
-**Status**: pending
+**Status**: promoted
+**Promoted**: TOOLS.md
 **Area**: config
 
 ### Summary
@@ -66,7 +68,8 @@ mode="session" requires thread=true so the subagent can stay bound to a thread.
 
 **Logged**: 2026-03-09T16:34:00+08:00
 **Priority**: medium
-**Status**: pending
+**Status**: promoted
+**Promoted**: TOOLS.md
 **Area**: config
 
 ### Summary

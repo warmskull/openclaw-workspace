@@ -4,7 +4,8 @@
 
 **Logged**: 2026-03-08T17:00:14+08:00
 **Priority**: high
-**Status**: pending
+**Status**: promoted
+**Promoted**: AGENTS.md
 **Area**: docs
 
 ### Summary
@@ -32,7 +33,8 @@
 
 **Logged**: 2026-03-08T17:00:14+08:00
 **Priority**: medium
-**Status**: pending
+**Status**: promoted
+**Promoted**: AGENTS.md
 **Area**: docs
 
 ### Summary
@@ -77,6 +79,34 @@
 - Source: user_feedback
 - Related Files: MEMORY.md, HEARTBEAT.md
 - Tags: correction, proactive, nighttime, assistant-owned-tasks
+- See Also: none
+
+---
+
+## [LRN-20260310-001] best_practice
+
+**Logged**: 2026-03-10T17:06:00+08:00
+**Priority**: high
+**Status**: promoted
+**Promoted**: AGENTS.md, SOUL.md
+**Area**: config
+
+### Summary
+从 Proactive Agent v3.1.0 引入三条核心原则：WAL协议、Working Buffer、Verify before Done + 穷举资源主义。
+
+### Details
+- WAL协议：纠正/决定/偏好先写文件再回复，防止上下文丢失
+- Working Buffer：60%上下文时启动危险区日志
+- Verify before Done：行为变化才算完成，文字变化≠行为变化
+- 穷举资源主义：10种方法前不说"做不到"
+
+### Suggested Action
+日常执行，已写入 AGENTS.md 和 SOUL.md。
+
+### Metadata
+- Source: skill
+- Related Files: skills/proactive-agent/SKILL.md
+- Tags: proactive, wal, memory, verification
 - See Also: none
 
 ---

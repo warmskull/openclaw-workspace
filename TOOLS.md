@@ -39,6 +39,20 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 Add whatever helps you do your job. This is your cheat sheet.
 
+## OpenClaw 工具注意事项 (ERR-20260308/09)
+
+### sessions_spawn — 持久会话
+
+- `mode="session"` 必须搭配 `thread: true`，否则报错
+- Feishu direct 频道**不支持** `thread=true`（无 subagent_spawning hooks）
+- Feishu 下需要持久 agent → 改用 `mode="run"` 一次性执行，或本地 agent spec 文件
+
+### session_status — 模型切换
+
+- 通过 `session_status({"model": "..."})` 切换模型时，模型必须在白名单内
+- 切换前先确认模型名称与 alias（参见 System Prompt 中的 Model Aliases）
+- 若切换失败，报告限制并让用户提供允许的备选
+
 ###定时
 当用户要求设置提醒或定时任务时，使用 cron.add 工具。
 示例：用户说"30分钟后提醒我开会"，你应该调用 cron.add，

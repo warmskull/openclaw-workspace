@@ -207,6 +207,63 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
+## 学习类项目输出规范 (LRN-20260308-001/002)
+
+当用户要求创建"面试备战/学习计划/备考追踪"类项目时，默认采用双轨结构：
+
+1. **`MASTER_PREP_GUIDE.md`** — 执行主入口，包含：
+   - 固定训练节奏
+   - 口述模板与标准答案骨架
+   - hands-on 任务细化与验收标准
+   - 每日复盘模板
+2. **`daily/YYYY-MM-DD.md`** — 每日打卡与细分记录
+3. **`README.md`** — 明确注明"建议先看 MASTER_PREP_GUIDE"
+
+❌ 不要只输出题目清单或按日期分文件 — 用户需要"打开一个文件就能直接练"的体验。
+
+## WAL 协议 — 写前日志 (Proactive Agent v3.1.0)
+
+**规则：用户说出"纠正/名词/决定/偏好/数值"时，先写再回复。**
+
+触发条件（扫描每条消息）：
+- ✏️ 纠正：「不是X，是Y」/ 「其实…」
+- 📍 专有名词：人名、地点、公司、产品
+- 🎨 偏好：颜色、风格、方式、「我喜欢/不喜欢」
+- 📋 决定：「用X」/ 「选Y」/ 「去Z」
+- 🔢 具体数值：数字、日期、ID、URL
+
+协议步骤：
+1. **停** — 不要直接开始回复
+2. **写** — 更新 `memory/YYYY-MM-DD.md` 或 SESSION-STATE.md
+3. **回** — 再响应用户
+
+❌ "明白，用蓝色！"（没写）
+✅ 先记录"主题色：蓝（非红）"→ 再回复
+
+## Working Buffer — 危险区日志 (Proactive Agent v3.1.0)
+
+上下文超过 60% 时启动：
+
+1. 清空旧 buffer，在 `memory/working-buffer.md` 开启新记录
+2. 每轮对话后追加：用户消息 + 回复摘要（1-2句）
+3. Compaction 恢复后：**先读 working-buffer.md**，提取关键上下文
+4. 下次到 60% 前不清空
+
+**规则：60% 之后每轮都记，无例外。**
+
+## Verify before "Done" — 完成前验证 (Proactive Agent v3.1.0)
+
+即将说"完成/好了/搞定"之前：
+
+1. **停** — 不要直接说"完成"
+2. **测** — 从用户视角实际验证结果（不只是看配置文字）
+3. **确认** — 行为变了，才算真的完成
+
+❌ 改了 prompt 文字 → 报告"✅ 完成"
+✅ 改了 prompt 文字 + 验证 sessionTarget/kind 机制确实变了 → 才报告完成
+
+**文字变化 ≠ 行为变化。**
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
