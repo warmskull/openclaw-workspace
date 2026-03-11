@@ -1,0 +1,3 @@
+0 6 * * * /usr/bin/python3 /root/.openclaw/workspace/scripts/daily_git_sync.py >> /root/.openclaw/workspace/logs/daily_git_sync.log 2>&1
+0 16 * * * /root/.openclaw/workspace/scripts/sync_to_jianguo.sh >> /root/.openclaw/workspace/logs/sync_to_jianguo.log 2>&1
+40 23 * * * /root/.openclaw/workspace/scripts/nightly_assistant_tasks.sh >> /root/.openclaw/workspace/logs/nightly_assistant.log 2>&1
