@@ -1,0 +1,96 @@
+# LLM 复标报告（2026-03-12）
+
+- 处理原图数量：10
+- 处理 YOLO 裁剪图数量：138
+- 排除的多菜原图数量：10
+
+## 说明
+- 所有 `dishes.json` 中 `needsConfirm=true` 的原图已复核，并统一确认为“多菜原图”，不进入最终图库。
+- 所有 `dish-split-candidates.json` 中 `needsConfirm=true` 的 YOLO 裁剪图已重新回写；能较保守识别的，已补写菜名与分类；无法可靠判断的，统一保守命名为“待确认菜名 <文件名>（LLM复核）”。
+
+## 仍高度不确定（需人工重点复核）
+- yolo-candidate-001 / IMG_0131__yolo_dish01.jpg / IMG_0131.jpg
+- yolo-candidate-002 / IMG_0131__yolo_dish02.jpg / IMG_0131.jpg
+- yolo-candidate-003 / IMG_0131__yolo_dish03.jpg / IMG_0131.jpg
+- yolo-candidate-004 / IMG_0131__yolo_dish04.jpg / IMG_0131.jpg
+- yolo-candidate-005 / IMG_0131__yolo_dish05.jpg / IMG_0131.jpg
+- yolo-candidate-006 / IMG_1525__yolo_dish01.jpg / IMG_1525.jpg
+- yolo-candidate-007 / IMG_1525__yolo_dish02.jpg / IMG_1525.jpg
+- yolo-candidate-008 / IMG_2399__yolo_dish01.jpg / IMG_2399.jpg
+- yolo-candidate-009 / IMG_2399__yolo_dish02.jpg / IMG_2399.jpg
+- yolo-candidate-010 / IMG_2399__yolo_dish03.jpg / IMG_2399.jpg
+- yolo-candidate-011 / IMG_2399__yolo_dish04.jpg / IMG_2399.jpg
+- yolo-candidate-012 / IMG_2399__yolo_dish05.jpg / IMG_2399.jpg
+- yolo-candidate-013 / IMG_2399__yolo_dish06.jpg / IMG_2399.jpg
+- yolo-candidate-014 / IMG_2566__yolo_dish01.jpg / IMG_2566.jpg
+- yolo-candidate-015 / IMG_2641__yolo_dish01.jpg / IMG_2641.jpg
+- yolo-candidate-016 / IMG_2669__yolo_dish01.jpg / IMG_2669.jpg
+- yolo-candidate-017 / IMG_2669__yolo_dish02.jpg / IMG_2669.jpg
+- yolo-candidate-018 / IMG_2669__yolo_dish03.jpg / IMG_2669.jpg
+- yolo-candidate-019 / IMG_2669__yolo_dish04.jpg / IMG_2669.jpg
+- yolo-candidate-020 / IMG_2839__yolo_dish01.jpg / IMG_2839.jpg
+- yolo-candidate-021 / IMG_2839__yolo_dish02.jpg / IMG_2839.jpg
+- yolo-candidate-022 / IMG_3223__yolo_dish01.jpg / IMG_3223.jpg
+- yolo-candidate-023 / IMG_3223__yolo_dish02.jpg / IMG_3223.jpg
+- yolo-candidate-024 / IMG_3223__yolo_dish03.jpg / IMG_3223.jpg
+- yolo-candidate-025 / IMG_4112__yolo_dish01.jpg / IMG_4112.jpg
+- yolo-candidate-026 / IMG_4112__yolo_dish02.jpg / IMG_4112.jpg
+- yolo-candidate-027 / IMG_4112__yolo_dish03.jpg / IMG_4112.jpg
+- yolo-candidate-028 / IMG_4294__yolo_dish01.jpg / IMG_4294.jpg
+- yolo-candidate-029 / IMG_4294__yolo_dish02.jpg / IMG_4294.jpg
+- yolo-candidate-030 / IMG_4294__yolo_dish03.jpg / IMG_4294.jpg
+- yolo-candidate-031 / IMG_4294__yolo_dish04.jpg / IMG_4294.jpg
+- yolo-candidate-032 / IMG_4294__yolo_dish05.jpg / IMG_4294.jpg
+- yolo-candidate-033 / IMG_4294__yolo_dish06.jpg / IMG_4294.jpg
+- yolo-candidate-034 / IMG_4297__yolo_dish01.jpg / IMG_4297.jpg
+- yolo-candidate-035 / IMG_4297__yolo_dish02.jpg / IMG_4297.jpg
+- yolo-candidate-036 / IMG_4297__yolo_dish03.jpg / IMG_4297.jpg
+- yolo-candidate-037 / IMG_4297__yolo_dish04.jpg / IMG_4297.jpg
+- yolo-candidate-038 / IMG_4297__yolo_dish05.jpg / IMG_4297.jpg
+- yolo-candidate-039 / IMG_4297__yolo_dish06.jpg / IMG_4297.jpg
+- yolo-candidate-048 / IMG_4341__yolo_dish01.jpg / IMG_4341.jpg
+- yolo-candidate-049 / IMG_4341__yolo_dish02.jpg / IMG_4341.jpg
+- yolo-candidate-050 / IMG_4341__yolo_dish03.jpg / IMG_4341.jpg
+- yolo-candidate-051 / IMG_4341__yolo_dish04.jpg / IMG_4341.jpg
+- yolo-candidate-052 / IMG_4341__yolo_dish05.jpg / IMG_4341.jpg
+- yolo-candidate-053 / IMG_4341__yolo_dish06.jpg / IMG_4341.jpg
+- yolo-candidate-060 / IMG_5170__yolo_dish01.jpg / IMG_5170.jpg
+- yolo-candidate-061 / IMG_5170__yolo_dish02.jpg / IMG_5170.jpg
+- yolo-candidate-062 / IMG_5170__yolo_dish03.jpg / IMG_5170.jpg
+- yolo-candidate-063 / IMG_5170__yolo_dish04.jpg / IMG_5170.jpg
+- yolo-candidate-064 / IMG_5170__yolo_dish05.jpg / IMG_5170.jpg
+- yolo-candidate-065 / IMG_5197__yolo_dish01.jpg / IMG_5197.jpg
+- yolo-candidate-066 / IMG_5197__yolo_dish02.jpg / IMG_5197.jpg
+- yolo-candidate-067 / IMG_5197__yolo_dish03.jpg / IMG_5197.jpg
+- yolo-candidate-068 / IMG_5197__yolo_dish04.jpg / IMG_5197.jpg
+- yolo-candidate-069 / IMG_5197__yolo_dish05.jpg / IMG_5197.jpg
+- yolo-candidate-070 / IMG_5595__yolo_dish01.jpg / IMG_5595.jpg
+- yolo-candidate-071 / IMG_5595__yolo_dish02.jpg / IMG_5595.jpg
+- yolo-candidate-072 / IMG_5595__yolo_dish03.jpg / IMG_5595.jpg
+- yolo-candidate-073 / IMG_5595__yolo_dish04.jpg / IMG_5595.jpg
+- yolo-candidate-074 / IMG_5595__yolo_dish05.jpg / IMG_5595.jpg
+- yolo-candidate-075 / IMG_6275__yolo_dish01.jpg / IMG_6275.jpg
+- yolo-candidate-076 / IMG_6275__yolo_dish02.jpg / IMG_6275.jpg
+- yolo-candidate-077 / IMG_6275__yolo_dish03.jpg / IMG_6275.jpg
+- yolo-candidate-078 / IMG_6608__yolo_dish01.jpg / IMG_6608.jpg
+- yolo-candidate-079 / IMG_6608__yolo_dish02.jpg / IMG_6608.jpg
+- yolo-candidate-080 / IMG_6608__yolo_dish03.jpg / IMG_6608.jpg
+- yolo-candidate-081 / IMG_6641__yolo_dish01.jpg / IMG_6641.jpg
+- yolo-candidate-082 / IMG_6641__yolo_dish02.jpg / IMG_6641.jpg
+- yolo-candidate-083 / IMG_6641__yolo_dish03.jpg / IMG_6641.jpg
+- yolo-candidate-084 / IMG_6641__yolo_dish04.jpg / IMG_6641.jpg
+- yolo-candidate-085 / IMG_6641__yolo_dish05.jpg / IMG_6641.jpg
+- yolo-candidate-086 / IMG_6641__yolo_dish06.jpg / IMG_6641.jpg
+- yolo-candidate-087 / IMG_6720__yolo_dish01.jpg / IMG_6720.jpg
+- yolo-candidate-088 / IMG_6720__yolo_dish02.jpg / IMG_6720.jpg
+- yolo-candidate-089 / IMG_6765__yolo_dish01.jpg / IMG_6765.jpg
+- yolo-candidate-090 / IMG_6765__yolo_dish02.jpg / IMG_6765.jpg
+- yolo-candidate-091 / IMG_6765__yolo_dish03.jpg / IMG_6765.jpg
+- yolo-candidate-092 / IMG_6765__yolo_dish04.jpg / IMG_6765.jpg
+- yolo-candidate-093 / IMG_6765__yolo_dish05.jpg / IMG_6765.jpg
+- yolo-candidate-096 / IMG_6964__yolo_dish01.jpg / IMG_6964.jpg
+- 其余 42 条同样处于高度不确定状态，已保守归类为“其他”。
+
+## YOLO 漏检/误检观察
+- 明显存在少量误检或切到器皿边缘、局部摆件、重复局部的情况。
+- 从已抽样复核结果看，YOLO 更像“尽量多切”，适合做候选生成，但仍需要人工二次筛选与合并。

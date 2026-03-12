@@ -1,0 +1,34 @@
+# 敏感配置和状态文件
+.openclaw/
+.pi/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.log
+*.tmp
+*.swp
+.tmp_skill_install/
+
+# Python / venv / cache
+.venv*/
+venv/
+**/__pycache__/
+*.pyc
+
+# Generated / backup artifacts
+backups/
+dinner-what-to-eat/generated/
+dinner-what-to-eat/data/backup-*/
+
+# Sync snapshot excludes
+.venv*/
+venv/
+**/__pycache__/
+*.pyc
+backups/
+*.pid
+*.pt
+dinner-what-to-eat/generated/
+dinner-what-to-eat/uploads/
+dinner-what-to-eat/data/backup-*/

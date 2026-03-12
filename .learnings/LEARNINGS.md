@@ -1,0 +1,164 @@
+# LEARNINGS.md
+
+## [LRN-20260308-001] correction
+
+**Logged**: 2026-03-08T17:00:14+08:00
+**Priority**: high
+**Status**: promoted
+**Promoted**: AGENTS.md
+**Area**: docs
+
+### Summary
+面试备战资料不能只给题目，用户需要“单文件可直接执行”的完整训练内容。
+
+### Details
+初版 GitHub 跟踪文件主要是按日期列题与清单。用户明确纠正：需要一个文件就能完成每天训练，必须包含详细答题框架、执行步骤、验收标准，而不是仅有题目列表。
+
+### Suggested Action
+默认为“备战/学习类项目”输出单文件主入口（MASTER_PREP_GUIDE），至少包含：
+1) 固定训练节奏
+2) 口述模板与标准答案骨架
+3) hands-on 任务细化与验收标准
+4) 每日复盘模板
+
+### Metadata
+- Source: user_feedback
+- Related Files: byte-doubao-prep-tracker/MASTER_PREP_GUIDE.md
+- Tags: interview-prep, execution, single-file
+- See Also: none
+
+---
+
+## [LRN-20260308-002] best_practice
+
+**Logged**: 2026-03-08T17:00:14+08:00
+**Priority**: medium
+**Status**: promoted
+**Promoted**: AGENTS.md
+**Area**: docs
+
+### Summary
+当用户要在 GitHub 跟踪个人计划时，应同时提供“目录式拆分 + 单文件总览入口”。
+
+### Details
+仅使用按天分文件适合归档，但用户实际执行偏好是“打开一个文件直接练”。双轨结构（daily/ + MASTER_PREP_GUIDE）兼顾可维护性和执行便利。
+
+### Suggested Action
+后续类似任务默认采用：
+- `MASTER_PREP_GUIDE.md` 作为执行入口
+- `daily/YYYY-MM-DD.md` 作为打卡与细分记录
+- README 明确“建议先看 MASTER_PREP_GUIDE”
+
+### Metadata
+- Source: conversation
+- Related Files: byte-doubao-prep-tracker/README.md
+- Tags: planning, github-tracker, usability
+- See Also: LRN-20260308-001
+
+---
+## [LRN-20260308-003] correction
+
+**Logged**: 2026-03-08T21:49:00+08:00
+**Priority**: high
+**Status**: pending
+**Area**: docs
+
+### Summary
+当用户问“晚上固定任务”时，应优先给出“助手夜间自动执行、尽量不打扰用户”的任务清单，而不是给用户安排夜间训练。
+
+### Details
+用户明确纠正：晚上他的任务是睡觉，夜间应由助手承担后台固定任务。我之前给了用户夜间训练计划，方向偏了。
+
+### Suggested Action
+后续遇到“晚上固定任务/主动思考夜间任务”类请求，默认输出：
+1) 助手后台巡检/同步/整理任务
+2) 次晨汇总提醒（可静默）
+3) 明确区分“用户要做”与“助手代做”
+
+### Metadata
+- Source: user_feedback
+- Related Files: MEMORY.md, HEARTBEAT.md
+- Tags: correction, proactive, nighttime, assistant-owned-tasks
+- See Also: none
+
+---
+
+## [LRN-20260310-001] best_practice
+
+**Logged**: 2026-03-10T17:06:00+08:00
+**Priority**: high
+**Status**: promoted
+**Promoted**: AGENTS.md, SOUL.md
+**Area**: config
+
+### Summary
+从 Proactive Agent v3.1.0 引入三条核心原则：WAL协议、Working Buffer、Verify before Done + 穷举资源主义。
+
+### Details
+- WAL协议：纠正/决定/偏好先写文件再回复，防止上下文丢失
+- Working Buffer：60%上下文时启动危险区日志
+- Verify before Done：行为变化才算完成，文字变化≠行为变化
+- 穷举资源主义：10种方法前不说"做不到"
+
+### Suggested Action
+日常执行，已写入 AGENTS.md 和 SOUL.md。
+
+### Metadata
+- Source: skill
+- Related Files: skills/proactive-agent/SKILL.md
+- Tags: proactive, wal, memory, verification
+- See Also: none
+
+---
+## [LRN-20260311-001] correction
+
+**Logged**: 2026-03-11T21:26:00+08:00
+**Priority**: high
+**Status**: pending
+**Area**: config
+
+### Summary
+用户说“今天晚上提醒我提供”后，助手只记录了时间偏好（晚上=20:30），但没有立即创建当晚提醒任务。
+
+### Details
+这是执行缺口：用户已经给出“今晚提醒”意图，后续“晚上=20:30”应被当作具体时间并立即落提醒。
+
+### Suggested Action
+当用户先提“提醒我X”再补充“晚上=20:30”这类时间语义时，立即创建对应提醒，不等待再次确认。
+
+### Metadata
+- Source: user_feedback
+- Related Files: MEMORY.md
+- Tags: reminder, scheduling, correction
+
+---
+## [LRN-20260312-001] best_practice
+
+**Logged**: 2026-03-12T16:00:00+08:00
+**Priority**: high
+**Status**: promoted
+**Area**: docs
+
+### Summary
+重要写入失败后应自动切换写法重试，并在回复前验证已成功落盘
+
+### Details
+在向 `memory/ideas.md` 写入内容时，首次使用精确替换失败，原因是目标锚点不唯一。用户随后明确要求：以后遇到写入失败时，不要停在第一次失败上，而应自动改用其他写法（如追加、改锚点、直接重写局部等）继续完成；并且在向用户汇报“已写入”前，必须自动检查目标文件中是否确实存在目标内容。这是适用于记忆、日记、ideas、规则类文档的稳定工作流要求。
+
+### Suggested Action
+1. 重要写入优先使用可验证的写法；
+2. 若 edit 失败，自动切换到 append/write/read-back 等替代方案；
+3. 回复前执行一次目标文件校验；
+4. 将该规则固化到 SOUL.md 与 MEMORY.md。
+
+### Metadata
+- Source: conversation
+- Related Files: SOUL.md, MEMORY.md, memory/2026-03-12.md, .learnings/LEARNINGS.md
+- Tags: write, verification, retry, memory, best_practice
+- Pattern-Key: harden.write-verify-retry
+- Recurrence-Count: 1
+- First-Seen: 2026-03-12
+- Last-Seen: 2026-03-12
+- Promoted: SOUL.md, MEMORY.md
+
+---

@@ -1,0 +1,5829 @@
+[
+  {
+    "id": "yolo-candidate-001",
+    "name": "待确认菜名 IMG_0131__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_0131__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_0131.jpg",
+    "bbox": [
+      2387,
+      469,
+      4257,
+      1288
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5616,
+    "width": 1870,
+    "height": 819,
+    "area": 1531530,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-002",
+    "name": "待确认菜名 IMG_0131__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_0131__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_0131.jpg",
+    "bbox": [
+      2,
+      840,
+      2467,
+      2461
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8266,
+    "width": 2465,
+    "height": 1621,
+    "area": 3995765,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-003",
+    "name": "待确认菜名 IMG_0131__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_0131__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_0131.jpg",
+    "bbox": [
+      2415,
+      1031,
+      4025,
+      2101
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8812,
+    "width": 1610,
+    "height": 1070,
+    "area": 1722700,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-004",
+    "name": "待确认菜名 IMG_0131__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_0131__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_0131.jpg",
+    "bbox": [
+      2133,
+      1410,
+      5393,
+      3050
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2469,
+    "width": 3260,
+    "height": 1640,
+    "area": 5346400,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-005",
+    "name": "待确认菜名 IMG_0131__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_0131__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_0131.jpg",
+    "bbox": [
+      2026,
+      3034,
+      5712,
+      4284
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7986,
+    "width": 3686,
+    "height": 1250,
+    "area": 4607500,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-006",
+    "name": "待确认菜名 IMG_1525__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_1525__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_1525.jpg",
+    "bbox": [
+      5,
+      1233,
+      3023,
+      4032
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1362,
+    "width": 3018,
+    "height": 2799,
+    "area": 8447382,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-007",
+    "name": "待确认菜名 IMG_1525__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_1525__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_1525.jpg",
+    "bbox": [
+      14,
+      1549,
+      725,
+      1923
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1409,
+    "width": 711,
+    "height": 374,
+    "area": 265914,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-008",
+    "name": "待确认菜名 IMG_2399__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2399__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_2399.jpg",
+    "bbox": [
+      989,
+      18,
+      2894,
+      1826
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8496,
+    "width": 1905,
+    "height": 1808,
+    "area": 3444240,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-009",
+    "name": "待确认菜名 IMG_2399__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2399__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_2399.jpg",
+    "bbox": [
+      0,
+      348,
+      458,
+      1084
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2701,
+    "width": 458,
+    "height": 736,
+    "area": 337088,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-010",
+    "name": "待确认菜名 IMG_2399__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2399__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_2399.jpg",
+    "bbox": [
+      2992,
+      497,
+      4102,
+      1853
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.901,
+    "width": 1110,
+    "height": 1356,
+    "area": 1505160,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-011",
+    "name": "待确认菜名 IMG_2399__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2399__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_2399.jpg",
+    "bbox": [
+      0,
+      966,
+      1263,
+      2484
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7703,
+    "width": 1263,
+    "height": 1518,
+    "area": 1917234,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-012",
+    "name": "待确认菜名 IMG_2399__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2399__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_2399.jpg",
+    "bbox": [
+      2522,
+      1201,
+      3272,
+      1972
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2125,
+    "width": 750,
+    "height": 771,
+    "area": 578250,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-013",
+    "name": "待确认菜名 IMG_2399__yolo_dish06.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2399__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_2399.jpg",
+    "bbox": [
+      1244,
+      2009,
+      3281,
+      4024
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7534,
+    "width": 2037,
+    "height": 2015,
+    "area": 4104555,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-014",
+    "name": "待确认菜名 IMG_2566__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2566__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_2566.jpg",
+    "bbox": [
+      241,
+      2586,
+      3156,
+      4957
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9071,
+    "width": 2915,
+    "height": 2371,
+    "area": 6911465,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-015",
+    "name": "待确认菜名 IMG_2641__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2641__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_2641.jpg",
+    "bbox": [
+      66,
+      740,
+      2666,
+      4018
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6704,
+    "width": 2600,
+    "height": 3278,
+    "area": 8522800,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-016",
+    "name": "待确认菜名 IMG_2669__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2669__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_2669.jpg",
+    "bbox": [
+      1570,
+      420,
+      2944,
+      1775
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8576,
+    "width": 1374,
+    "height": 1355,
+    "area": 1861770,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-017",
+    "name": "待确认菜名 IMG_2669__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2669__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_2669.jpg",
+    "bbox": [
+      334,
+      1328,
+      1849,
+      2776
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.855,
+    "width": 1515,
+    "height": 1448,
+    "area": 2193720,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-018",
+    "name": "待确认菜名 IMG_2669__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2669__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_2669.jpg",
+    "bbox": [
+      1800,
+      1546,
+      3429,
+      3236
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7176,
+    "width": 1629,
+    "height": 1690,
+    "area": 2753010,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-019",
+    "name": "待确认菜名 IMG_2669__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2669__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_2669.jpg",
+    "bbox": [
+      569,
+      2874,
+      2360,
+      4688
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8993,
+    "width": 1791,
+    "height": 1814,
+    "area": 3248874,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-020",
+    "name": "待确认菜名 IMG_2839__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2839__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_2839.jpg",
+    "bbox": [
+      690,
+      1036,
+      2779,
+      3035
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9003,
+    "width": 2089,
+    "height": 1999,
+    "area": 4175911,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-021",
+    "name": "待确认菜名 IMG_2839__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_2839__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_2839.jpg",
+    "bbox": [
+      2704,
+      1643,
+      5412,
+      3795
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7995,
+    "width": 2708,
+    "height": 2152,
+    "area": 5827616,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-022",
+    "name": "待确认菜名 IMG_3223__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_3223__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_3223.jpg",
+    "bbox": [
+      405,
+      163,
+      3035,
+      2772
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8988,
+    "width": 2630,
+    "height": 2609,
+    "area": 6861670,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-023",
+    "name": "待确认菜名 IMG_3223__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_3223__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_3223.jpg",
+    "bbox": [
+      3025,
+      1258,
+      4253,
+      2327
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5534,
+    "width": 1228,
+    "height": 1069,
+    "area": 1312732,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-024",
+    "name": "待确认菜名 IMG_3223__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_3223__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_3223.jpg",
+    "bbox": [
+      289,
+      2759,
+      3011,
+      5480
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8263,
+    "width": 2722,
+    "height": 2721,
+    "area": 7406562,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-025",
+    "name": "待确认菜名 IMG_4112__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4112__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_4112.jpg",
+    "bbox": [
+      1813,
+      318,
+      2893,
+      1182
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.4272,
+    "width": 1080,
+    "height": 864,
+    "area": 933120,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-026",
+    "name": "待确认菜名 IMG_4112__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4112__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_4112.jpg",
+    "bbox": [
+      157,
+      1167,
+      2583,
+      3553
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8852,
+    "width": 2426,
+    "height": 2386,
+    "area": 5788436,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-027",
+    "name": "待确认菜名 IMG_4112__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4112__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_4112.jpg",
+    "bbox": [
+      2305,
+      2918,
+      3555,
+      4231
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.3499,
+    "width": 1250,
+    "height": 1313,
+    "area": 1641250,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-028",
+    "name": "待确认菜名 IMG_4294__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4294__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_4294.jpg",
+    "bbox": [
+      2120,
+      559,
+      2867,
+      1316
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5738,
+    "width": 747,
+    "height": 757,
+    "area": 565479,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-029",
+    "name": "待确认菜名 IMG_4294__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4294__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_4294.jpg",
+    "bbox": [
+      2993,
+      982,
+      4214,
+      2181
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8544,
+    "width": 1221,
+    "height": 1199,
+    "area": 1463979,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-030",
+    "name": "待确认菜名 IMG_4294__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4294__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_4294.jpg",
+    "bbox": [
+      1243,
+      1250,
+      3053,
+      2902
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5039,
+    "width": 1810,
+    "height": 1652,
+    "area": 2990120,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-031",
+    "name": "待确认菜名 IMG_4294__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4294__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_4294.jpg",
+    "bbox": [
+      203,
+      1628,
+      1318,
+      2913
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8621,
+    "width": 1115,
+    "height": 1285,
+    "area": 1432775,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-032",
+    "name": "待确认菜名 IMG_4294__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4294__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_4294.jpg",
+    "bbox": [
+      3143,
+      2085,
+      4990,
+      3947
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6944,
+    "width": 1847,
+    "height": 1862,
+    "area": 3439114,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-033",
+    "name": "待确认菜名 IMG_4294__yolo_dish06.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4294__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_4294.jpg",
+    "bbox": [
+      1878,
+      2958,
+      2657,
+      3761
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1741,
+    "width": 779,
+    "height": 803,
+    "area": 625537,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-034",
+    "name": "待确认菜名 IMG_4297__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4297__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_4297.jpg",
+    "bbox": [
+      1320,
+      333,
+      2603,
+      1490
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7801,
+    "width": 1283,
+    "height": 1157,
+    "area": 1484431,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-035",
+    "name": "待确认菜名 IMG_4297__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4297__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_4297.jpg",
+    "bbox": [
+      1295,
+      1508,
+      2935,
+      3162
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5738,
+    "width": 1640,
+    "height": 1654,
+    "area": 2712560,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-036",
+    "name": "待确认菜名 IMG_4297__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4297__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_4297.jpg",
+    "bbox": [
+      419,
+      2022,
+      1237,
+      2809
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6517,
+    "width": 818,
+    "height": 787,
+    "area": 643766,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-037",
+    "name": "待确认菜名 IMG_4297__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4297__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_4297.jpg",
+    "bbox": [
+      2880,
+      2316,
+      3626,
+      3062
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6491,
+    "width": 746,
+    "height": 746,
+    "area": 556516,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-038",
+    "name": "待确认菜名 IMG_4297__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4297__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_4297.jpg",
+    "bbox": [
+      1999,
+      3159,
+      3185,
+      4364
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8157,
+    "width": 1186,
+    "height": 1205,
+    "area": 1429130,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-039",
+    "name": "待确认菜名 IMG_4297__yolo_dish06.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4297__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_4297.jpg",
+    "bbox": [
+      196,
+      3301,
+      2070,
+      5142
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6821,
+    "width": 1874,
+    "height": 1841,
+    "area": 3450034,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-040",
+    "name": "奶油土豆炖牛肉",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4298__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_4298.jpg",
+    "bbox": [
+      2285,
+      554,
+      3027,
+      1307
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "牛肉",
+      "土豆",
+      "炖菜"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5855,
+    "width": 742,
+    "height": 753,
+    "area": 558726,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“奶油土豆炖牛肉”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-041",
+    "name": "奶油土豆炖牛肉",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4298__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_4298.jpg",
+    "bbox": [
+      3140,
+      959,
+      4345,
+      2146
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "牛肉",
+      "土豆",
+      "炖菜"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6977,
+    "width": 1205,
+    "height": 1187,
+    "area": 1430335,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“奶油土豆炖牛肉”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-042",
+    "name": "奶油土豆炖牛肉",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4298__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_4298.jpg",
+    "bbox": [
+      1330,
+      1256,
+      3345,
+      2902
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "牛肉",
+      "土豆",
+      "炖菜"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5768,
+    "width": 2015,
+    "height": 1646,
+    "area": 3316690,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“奶油土豆炖牛肉”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-043",
+    "name": "奶油土豆炖牛肉",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4298__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_4298.jpg",
+    "bbox": [
+      335,
+      1659,
+      1492,
+      2941
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "牛肉",
+      "土豆",
+      "炖菜"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8468,
+    "width": 1157,
+    "height": 1282,
+    "area": 1483274,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“奶油土豆炖牛肉”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-044",
+    "name": "青菜",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4298__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_4298.jpg",
+    "bbox": [
+      3351,
+      2042,
+      5159,
+      3893
+    ],
+    "category": "配菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "绿叶菜",
+      "清炒",
+      "配菜"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6257,
+    "width": 1808,
+    "height": 1851,
+    "area": 3346608,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“青菜”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-045",
+    "name": "杂粮饭",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4298__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_4298.jpg",
+    "bbox": [
+      2093,
+      2950,
+      2877,
+      3750
+    ],
+    "category": "主食",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "米饭",
+      "杂粮",
+      "主食"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5761,
+    "width": 784,
+    "height": 800,
+    "area": 627200,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“杂粮饭”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-046",
+    "name": "墨鱼饭",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4331__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_4331.jpg",
+    "bbox": [
+      978,
+      668,
+      3460,
+      3175
+    ],
+    "category": "主食",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "米饭",
+      "墨鱼/鱿鱼",
+      "海鲜饭"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8112,
+    "width": 2482,
+    "height": 2507,
+    "area": 6222374,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“墨鱼饭”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-047",
+    "name": "白灼虾",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4331__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_4331.jpg",
+    "bbox": [
+      859,
+      3222,
+      3428,
+      5712
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "虾",
+      "海鲜",
+      "清淡"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8081,
+    "width": 2569,
+    "height": 2490,
+    "area": 6396810,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“白灼虾”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-048",
+    "name": "待确认菜名 IMG_4341__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4341__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_4341.jpg",
+    "bbox": [
+      1001,
+      1217,
+      3252,
+      2069
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9168,
+    "width": 2251,
+    "height": 852,
+    "area": 1917852,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-049",
+    "name": "待确认菜名 IMG_4341__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4341__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_4341.jpg",
+    "bbox": [
+      296,
+      2168,
+      3081,
+      3820
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.917,
+    "width": 2785,
+    "height": 1652,
+    "area": 4600820,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-050",
+    "name": "待确认菜名 IMG_4341__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4341__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_4341.jpg",
+    "bbox": [
+      3747,
+      2292,
+      4284,
+      3321
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1318,
+    "width": 537,
+    "height": 1029,
+    "area": 552573,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-051",
+    "name": "待确认菜名 IMG_4341__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4341__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_4341.jpg",
+    "bbox": [
+      3853,
+      3175,
+      4283,
+      4817
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2845,
+    "width": 430,
+    "height": 1642,
+    "area": 706060,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：长宽比异常",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-052",
+    "name": "待确认菜名 IMG_4341__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4341__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_4341.jpg",
+    "bbox": [
+      0,
+      3829,
+      1551,
+      5711
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7457,
+    "width": 1551,
+    "height": 1882,
+    "area": 2918982,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-053",
+    "name": "待确认菜名 IMG_4341__yolo_dish06.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4341__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_4341.jpg",
+    "bbox": [
+      101,
+      4462,
+      4284,
+      5710
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.3049,
+    "width": 4183,
+    "height": 1248,
+    "area": 5220384,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：长宽比异常",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-054",
+    "name": "黑椒牛肉炒洋葱",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4611__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_4611.jpg",
+    "bbox": [
+      1349,
+      481,
+      3332,
+      2495
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "牛肉",
+      "洋葱",
+      "黑椒"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9039,
+    "width": 1983,
+    "height": 2014,
+    "area": 3993762,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“黑椒牛肉炒洋葱”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-055",
+    "name": "蒜香芦笋",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4611__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_4611.jpg",
+    "bbox": [
+      0,
+      1246,
+      1757,
+      2962
+    ],
+    "category": "配菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "芦笋",
+      "蒜片",
+      "清炒"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.863,
+    "width": 1757,
+    "height": 1716,
+    "area": 3015012,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“蒜香芦笋”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-056",
+    "name": "杂粮饭",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4611__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_4611.jpg",
+    "bbox": [
+      2785,
+      2337,
+      3564,
+      3100
+    ],
+    "category": "主食",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "米饭",
+      "杂粮",
+      "主食"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1991,
+    "width": 779,
+    "height": 763,
+    "area": 594377,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“杂粮饭”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-057",
+    "name": "白灼虾",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4611__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_4611.jpg",
+    "bbox": [
+      1135,
+      2736,
+      3134,
+      4803
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "虾",
+      "海鲜",
+      "清淡"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.749,
+    "width": 1999,
+    "height": 2067,
+    "area": 4131933,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“白灼虾”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-058",
+    "name": "白灼虾",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4611__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_4611.jpg",
+    "bbox": [
+      214,
+      3020,
+      1106,
+      3880
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "虾",
+      "海鲜",
+      "清淡"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2561,
+    "width": 892,
+    "height": 860,
+    "area": 767120,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“白灼虾”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-059",
+    "name": "白灼虾",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_4611__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_4611.jpg",
+    "bbox": [
+      3665,
+      3048,
+      4284,
+      3985
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "虾",
+      "海鲜",
+      "清淡"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7106,
+    "width": 619,
+    "height": 937,
+    "area": 580003,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“白灼虾”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-060",
+    "name": "待确认菜名 IMG_5170__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5170__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_5170.jpg",
+    "bbox": [
+      2301,
+      102,
+      3066,
+      808
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8018,
+    "width": 765,
+    "height": 706,
+    "area": 540090,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-061",
+    "name": "待确认菜名 IMG_5170__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5170__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_5170.jpg",
+    "bbox": [
+      1680,
+      824,
+      3495,
+      2595
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5772,
+    "width": 1815,
+    "height": 1771,
+    "area": 3214365,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-062",
+    "name": "待确认菜名 IMG_5170__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5170__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_5170.jpg",
+    "bbox": [
+      210,
+      865,
+      1725,
+      2350
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8633,
+    "width": 1515,
+    "height": 1485,
+    "area": 2249775,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-063",
+    "name": "待确认菜名 IMG_5170__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5170__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_5170.jpg",
+    "bbox": [
+      3497,
+      1289,
+      4895,
+      2586
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8206,
+    "width": 1398,
+    "height": 1297,
+    "area": 1813206,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-064",
+    "name": "待确认菜名 IMG_5170__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5170__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_5170.jpg",
+    "bbox": [
+      2757,
+      2548,
+      3661,
+      3496
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.766,
+    "width": 904,
+    "height": 948,
+    "area": 856992,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-065",
+    "name": "待确认菜名 IMG_5197__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5197__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_5197.jpg",
+    "bbox": [
+      1450,
+      233,
+      2918,
+      1801
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8879,
+    "width": 1468,
+    "height": 1568,
+    "area": 2301824,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-066",
+    "name": "待确认菜名 IMG_5197__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5197__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_5197.jpg",
+    "bbox": [
+      2860,
+      1117,
+      3663,
+      1832
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2461,
+    "width": 803,
+    "height": 715,
+    "area": 574145,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-067",
+    "name": "待确认菜名 IMG_5197__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5197__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_5197.jpg",
+    "bbox": [
+      0,
+      1911,
+      1509,
+      3498
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8068,
+    "width": 1509,
+    "height": 1587,
+    "area": 2394783,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-068",
+    "name": "待确认菜名 IMG_5197__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5197__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_5197.jpg",
+    "bbox": [
+      3052,
+      2650,
+      4018,
+      3870
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8259,
+    "width": 966,
+    "height": 1220,
+    "area": 1178520,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-069",
+    "name": "待确认菜名 IMG_5197__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5197__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_5197.jpg",
+    "bbox": [
+      1768,
+      3547,
+      3315,
+      5402
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6754,
+    "width": 1547,
+    "height": 1855,
+    "area": 2869685,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-070",
+    "name": "待确认菜名 IMG_5595__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5595__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_5595.jpg",
+    "bbox": [
+      2110,
+      267,
+      3901,
+      1314
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9014,
+    "width": 1791,
+    "height": 1047,
+    "area": 1875177,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-071",
+    "name": "待确认菜名 IMG_5595__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5595__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_5595.jpg",
+    "bbox": [
+      3965,
+      552,
+      4838,
+      1239
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.152,
+    "width": 873,
+    "height": 687,
+    "area": 599751,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-072",
+    "name": "待确认菜名 IMG_5595__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5595__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_5595.jpg",
+    "bbox": [
+      3801,
+      814,
+      4934,
+      1474
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8989,
+    "width": 1133,
+    "height": 660,
+    "area": 747780,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-073",
+    "name": "待确认菜名 IMG_5595__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5595__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_5595.jpg",
+    "bbox": [
+      1685,
+      2456,
+      4947,
+      4283
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8419,
+    "width": 3262,
+    "height": 1827,
+    "area": 5959674,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-074",
+    "name": "待确认菜名 IMG_5595__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_5595__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_5595.jpg",
+    "bbox": [
+      9,
+      2549,
+      1743,
+      4143
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9069,
+    "width": 1734,
+    "height": 1594,
+    "area": 2763996,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-075",
+    "name": "待确认菜名 IMG_6275__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6275__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_6275.jpg",
+    "bbox": [
+      0,
+      1402,
+      1948,
+      3606
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8946,
+    "width": 1948,
+    "height": 2204,
+    "area": 4293392,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-076",
+    "name": "待确认菜名 IMG_6275__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6275__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_6275.jpg",
+    "bbox": [
+      1983,
+      1831,
+      4282,
+      4384
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8771,
+    "width": 2299,
+    "height": 2553,
+    "area": 5869347,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-077",
+    "name": "待确认菜名 IMG_6275__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6275__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_6275.jpg",
+    "bbox": [
+      1042,
+      3468,
+      2312,
+      4810
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1908,
+    "width": 1270,
+    "height": 1342,
+    "area": 1704340,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-078",
+    "name": "待确认菜名 IMG_6608__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6608__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_6608.jpg",
+    "bbox": [
+      0,
+      0,
+      2505,
+      1277
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.646,
+    "width": 2505,
+    "height": 1277,
+    "area": 3198885,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-079",
+    "name": "待确认菜名 IMG_6608__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6608__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_6608.jpg",
+    "bbox": [
+      0,
+      781,
+      418,
+      2805
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5477,
+    "width": 418,
+    "height": 2024,
+    "area": 846032,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：裁剪过窄、长宽比异常",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-080",
+    "name": "待确认菜名 IMG_6608__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6608__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_6608.jpg",
+    "bbox": [
+      234,
+      1197,
+      3481,
+      4753
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7232,
+    "width": 3247,
+    "height": 3556,
+    "area": 11546332,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-081",
+    "name": "待确认菜名 IMG_6641__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6641__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_6641.jpg",
+    "bbox": [
+      987,
+      0,
+      3101,
+      1515
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.875,
+    "width": 2114,
+    "height": 1515,
+    "area": 3202710,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-082",
+    "name": "待确认菜名 IMG_6641__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6641__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_6641.jpg",
+    "bbox": [
+      84,
+      1006,
+      1009,
+      1988
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1284,
+    "width": 925,
+    "height": 982,
+    "area": 908350,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-083",
+    "name": "待确认菜名 IMG_6641__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6641__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_6641.jpg",
+    "bbox": [
+      673,
+      1355,
+      3082,
+      3737
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5757,
+    "width": 2409,
+    "height": 2382,
+    "area": 5738238,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-084",
+    "name": "待确认菜名 IMG_6641__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6641__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_6641.jpg",
+    "bbox": [
+      3290,
+      1502,
+      4204,
+      2474
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.563,
+    "width": 914,
+    "height": 972,
+    "area": 888408,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-085",
+    "name": "待确认菜名 IMG_6641__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6641__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_6641.jpg",
+    "bbox": [
+      0,
+      2904,
+      994,
+      3994
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5925,
+    "width": 994,
+    "height": 1090,
+    "area": 1083460,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-086",
+    "name": "待确认菜名 IMG_6641__yolo_dish06.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6641__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_6641.jpg",
+    "bbox": [
+      935,
+      3641,
+      2548,
+      5125
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8698,
+    "width": 1613,
+    "height": 1484,
+    "area": 2393692,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-087",
+    "name": "待确认菜名 IMG_6720__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6720__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_6720.jpg",
+    "bbox": [
+      755,
+      673,
+      2828,
+      1946
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8652,
+    "width": 2073,
+    "height": 1273,
+    "area": 2638929,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-088",
+    "name": "待确认菜名 IMG_6720__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6720__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_6720.jpg",
+    "bbox": [
+      299,
+      2150,
+      3367,
+      4976
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8956,
+    "width": 3068,
+    "height": 2826,
+    "area": 8670168,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-089",
+    "name": "待确认菜名 IMG_6765__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6765__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_6765.jpg",
+    "bbox": [
+      371,
+      0,
+      2062,
+      1419
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.5809,
+    "width": 1691,
+    "height": 1419,
+    "area": 2399529,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-090",
+    "name": "待确认菜名 IMG_6765__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6765__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_6765.jpg",
+    "bbox": [
+      1667,
+      1,
+      4282,
+      2453
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6066,
+    "width": 2615,
+    "height": 2452,
+    "area": 6411980,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-091",
+    "name": "待确认菜名 IMG_6765__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6765__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_6765.jpg",
+    "bbox": [
+      0,
+      1477,
+      2162,
+      3672
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.872,
+    "width": 2162,
+    "height": 2195,
+    "area": 4745590,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-092",
+    "name": "待确认菜名 IMG_6765__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6765__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_6765.jpg",
+    "bbox": [
+      1909,
+      2483,
+      4284,
+      4962
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8688,
+    "width": 2375,
+    "height": 2479,
+    "area": 5887625,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-093",
+    "name": "待确认菜名 IMG_6765__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6765__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_6765.jpg",
+    "bbox": [
+      231,
+      3792,
+      2068,
+      5708
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8551,
+    "width": 1837,
+    "height": 1916,
+    "area": 3519692,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-094",
+    "name": "炖牛肉配土豆",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6813__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_6813.jpg",
+    "bbox": [
+      507,
+      104,
+      2691,
+      2243
+    ],
+    "category": "主菜",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "牛肉",
+      "土豆",
+      "炖菜"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8778,
+    "width": 2184,
+    "height": 2139,
+    "area": 4671576,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“炖牛肉配土豆”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-095",
+    "name": "葡萄",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6813__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_6813.jpg",
+    "bbox": [
+      1069,
+      3308,
+      3353,
+      5691
+    ],
+    "category": "水果",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "葡萄",
+      "水果"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8396,
+    "width": 2284,
+    "height": 2383,
+    "area": 5442772,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "recognized_with_caution",
+      "method": "local_read_tool_vision",
+      "note": "基于裁剪图与对应原图做保守识别，推断为“葡萄”，仍保留 needsConfirm 供人工复核。"
+    }
+  },
+  {
+    "id": "yolo-candidate-096",
+    "name": "待确认菜名 IMG_6964__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6964__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_6964.jpg",
+    "bbox": [
+      1173,
+      787,
+      2978,
+      2536
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.852,
+    "width": 1805,
+    "height": 1749,
+    "area": 3156945,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-097",
+    "name": "待确认菜名 IMG_6964__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6964__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_6964.jpg",
+    "bbox": [
+      1,
+      1433,
+      1184,
+      2680
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7886,
+    "width": 1183,
+    "height": 1247,
+    "area": 1475201,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-098",
+    "name": "待确认菜名 IMG_6964__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_6964__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_6964.jpg",
+    "bbox": [
+      897,
+      2496,
+      1978,
+      3659
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7844,
+    "width": 1081,
+    "height": 1163,
+    "area": 1257203,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-099",
+    "name": "待确认菜名 IMG_7123__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7123__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_7123.jpg",
+    "bbox": [
+      969,
+      434,
+      2358,
+      1345
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8593,
+    "width": 1389,
+    "height": 911,
+    "area": 1265379,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-100",
+    "name": "待确认菜名 IMG_7123__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7123__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_7123.jpg",
+    "bbox": [
+      0,
+      937,
+      1938,
+      2700
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9096,
+    "width": 1938,
+    "height": 1763,
+    "area": 3416694,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-101",
+    "name": "待确认菜名 IMG_7123__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7123__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_7123.jpg",
+    "bbox": [
+      1913,
+      948,
+      4032,
+      2879
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8086,
+    "width": 2119,
+    "height": 1931,
+    "area": 4091789,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-102",
+    "name": "待确认菜名 IMG_7123__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7123__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_7123.jpg",
+    "bbox": [
+      1150,
+      2461,
+      2942,
+      3024
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8437,
+    "width": 1792,
+    "height": 563,
+    "area": 1008896,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-103",
+    "name": "待确认菜名 IMG_7302__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7302__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_7302.jpg",
+    "bbox": [
+      522,
+      904,
+      2790,
+      2798
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9387,
+    "width": 2268,
+    "height": 1894,
+    "area": 4295592,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-104",
+    "name": "待确认菜名 IMG_7302__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7302__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_7302.jpg",
+    "bbox": [
+      2756,
+      1255,
+      5188,
+      3410
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8796,
+    "width": 2432,
+    "height": 2155,
+    "area": 5240960,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-105",
+    "name": "待确认菜名 IMG_7512__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7512__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_7512.jpg",
+    "bbox": [
+      854,
+      134,
+      3169,
+      2770
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8209,
+    "width": 2315,
+    "height": 2636,
+    "area": 6102340,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-106",
+    "name": "待确认菜名 IMG_7512__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7512__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_7512.jpg",
+    "bbox": [
+      93,
+      1820,
+      1710,
+      3446
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8852,
+    "width": 1617,
+    "height": 1626,
+    "area": 2629242,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-107",
+    "name": "待确认菜名 IMG_7512__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7512__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_7512.jpg",
+    "bbox": [
+      2864,
+      2212,
+      4052,
+      3025
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.4144,
+    "width": 1188,
+    "height": 813,
+    "area": 965844,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-108",
+    "name": "待确认菜名 IMG_7512__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7512__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_7512.jpg",
+    "bbox": [
+      935,
+      3020,
+      3215,
+      5644
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8052,
+    "width": 2280,
+    "height": 2624,
+    "area": 5982720,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-109",
+    "name": "待确认菜名 IMG_7512__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7512__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_7512.jpg",
+    "bbox": [
+      0,
+      3694,
+      1121,
+      4933
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2569,
+    "width": 1121,
+    "height": 1239,
+    "area": 1388919,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-110",
+    "name": "待确认菜名 IMG_7594__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7594__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_7594.jpg",
+    "bbox": [
+      900,
+      165,
+      2412,
+      1287
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8543,
+    "width": 1512,
+    "height": 1122,
+    "area": 1696464,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-111",
+    "name": "待确认菜名 IMG_7594__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7594__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_7594.jpg",
+    "bbox": [
+      542,
+      1389,
+      3205,
+      3056
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6296,
+    "width": 2663,
+    "height": 1667,
+    "area": 4439221,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-112",
+    "name": "待确认菜名 IMG_7594__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7594__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_7594.jpg",
+    "bbox": [
+      1339,
+      3108,
+      3220,
+      5118
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.883,
+    "width": 1881,
+    "height": 2010,
+    "area": 3780810,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-113",
+    "name": "待确认菜名 IMG_7765__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7765__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_7765.jpg",
+    "bbox": [
+      2476,
+      256,
+      3689,
+      1543
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8387,
+    "width": 1213,
+    "height": 1287,
+    "area": 1561131,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-114",
+    "name": "待确认菜名 IMG_7765__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7765__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_7765.jpg",
+    "bbox": [
+      4835,
+      518,
+      5712,
+      1481
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1663,
+    "width": 877,
+    "height": 963,
+    "area": 844551,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-115",
+    "name": "待确认菜名 IMG_7765__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7765__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_7765.jpg",
+    "bbox": [
+      0,
+      558,
+      2800,
+      3291
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6814,
+    "width": 2800,
+    "height": 2733,
+    "area": 7652400,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-116",
+    "name": "待确认菜名 IMG_7765__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7765__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_7765.jpg",
+    "bbox": [
+      2986,
+      1277,
+      5602,
+      3675
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.7533,
+    "width": 2616,
+    "height": 2398,
+    "area": 6273168,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-117",
+    "name": "待确认菜名 IMG_7782__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_7782__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_7782.jpg",
+    "bbox": [
+      5,
+      446,
+      3024,
+      3880
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6441,
+    "width": 3019,
+    "height": 3434,
+    "area": 10367246,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-118",
+    "name": "待确认菜名 IMG_8134__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8134__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_8134.jpg",
+    "bbox": [
+      575,
+      1766,
+      4123,
+      4787
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8376,
+    "width": 3548,
+    "height": 3021,
+    "area": 10718508,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-119",
+    "name": "待确认菜名 IMG_8234__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8234__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_8234.jpg",
+    "bbox": [
+      1255,
+      107,
+      2821,
+      1805
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8038,
+    "width": 1566,
+    "height": 1698,
+    "area": 2659068,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-120",
+    "name": "待确认菜名 IMG_8234__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8234__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_8234.jpg",
+    "bbox": [
+      775,
+      888,
+      1521,
+      1745
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "疑似误检"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.1592,
+    "width": 746,
+    "height": 857,
+    "area": 639322,
+    "autoCategory": "其他",
+    "autoAnalysis": "自动判定为“其他”：检测置信度过低",
+    "llmRecognition": {
+      "status": "false_positive_or_non_dish",
+      "method": "local_read_tool_vision",
+      "note": "裁剪结果更像局部器皿/边缘/非单道菜内容，保守归为其他。"
+    }
+  },
+  {
+    "id": "yolo-candidate-121",
+    "name": "待确认菜名 IMG_8234__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8234__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_8234.jpg",
+    "bbox": [
+      377,
+      1646,
+      1409,
+      2689
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.4563,
+    "width": 1032,
+    "height": 1043,
+    "area": 1076376,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-122",
+    "name": "待确认菜名 IMG_8234__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8234__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_8234.jpg",
+    "bbox": [
+      1748,
+      1880,
+      3164,
+      3290
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.6847,
+    "width": 1416,
+    "height": 1410,
+    "area": 1996560,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-123",
+    "name": "待确认菜名 IMG_8234__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8234__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_8234.jpg",
+    "bbox": [
+      539,
+      2929,
+      2385,
+      4813
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8777,
+    "width": 1846,
+    "height": 1884,
+    "area": 3477864,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-124",
+    "name": "待确认菜名 IMG_8234__yolo_dish06.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8234__yolo_dish06.jpg",
+    "sourcePhoto": "IMG_8234.jpg",
+    "bbox": [
+      2461,
+      3567,
+      3161,
+      4384
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.2962,
+    "width": 700,
+    "height": 817,
+    "area": 571900,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-125",
+    "name": "待确认菜名 IMG_8548__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8548__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_8548.jpg",
+    "bbox": [
+      0,
+      1642,
+      2015,
+      3368
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8601,
+    "width": 2015,
+    "height": 1726,
+    "area": 3477890,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-126",
+    "name": "待确认菜名 IMG_8548__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8548__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_8548.jpg",
+    "bbox": [
+      2004,
+      1756,
+      4163,
+      3522
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9228,
+    "width": 2159,
+    "height": 1766,
+    "area": 3812794,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-127",
+    "name": "待确认菜名 IMG_8548__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8548__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_8548.jpg",
+    "bbox": [
+      616,
+      3938,
+      3090,
+      5711
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8586,
+    "width": 2474,
+    "height": 1773,
+    "area": 4386402,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-128",
+    "name": "待确认菜名 IMG_8708__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8708__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_8708.jpg",
+    "bbox": [
+      0,
+      61,
+      3052,
+      3128
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.207,
+    "width": 3052,
+    "height": 3067,
+    "area": 9360484,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-129",
+    "name": "待确认菜名 IMG_8708__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8708__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_8708.jpg",
+    "bbox": [
+      1239,
+      2540,
+      3896,
+      5227
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8673,
+    "width": 2657,
+    "height": 2687,
+    "area": 7139359,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-130",
+    "name": "待确认菜名 IMG_8786__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8786__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_8786.jpg",
+    "bbox": [
+      3473,
+      285,
+      4281,
+      994
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8667,
+    "width": 808,
+    "height": 709,
+    "area": 572872,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-131",
+    "name": "待确认菜名 IMG_8786__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8786__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_8786.jpg",
+    "bbox": [
+      1296,
+      931,
+      3696,
+      2844
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8774,
+    "width": 2400,
+    "height": 1913,
+    "area": 4591200,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-132",
+    "name": "待确认菜名 IMG_8786__yolo_dish03.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8786__yolo_dish03.jpg",
+    "sourcePhoto": "IMG_8786.jpg",
+    "bbox": [
+      24,
+      1069,
+      1534,
+      2222
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8592,
+    "width": 1510,
+    "height": 1153,
+    "area": 1741030,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-133",
+    "name": "待确认菜名 IMG_8786__yolo_dish04.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8786__yolo_dish04.jpg",
+    "sourcePhoto": "IMG_8786.jpg",
+    "bbox": [
+      3746,
+      1349,
+      5631,
+      2943
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8843,
+    "width": 1885,
+    "height": 1594,
+    "area": 3004690,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-134",
+    "name": "待确认菜名 IMG_8786__yolo_dish05.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_8786__yolo_dish05.jpg",
+    "sourcePhoto": "IMG_8786.jpg",
+    "bbox": [
+      0,
+      2161,
+      1862,
+      3969
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.9034,
+    "width": 1862,
+    "height": 1808,
+    "area": 3366496,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-135",
+    "name": "待确认菜名 IMG_9399__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_9399__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_9399.jpg",
+    "bbox": [
+      815,
+      196,
+      2734,
+      2129
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8776,
+    "width": 1919,
+    "height": 1933,
+    "area": 3709427,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-136",
+    "name": "待确认菜名 IMG_9399__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_9399__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_9399.jpg",
+    "bbox": [
+      629,
+      2122,
+      3146,
+      4753
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.566,
+    "width": 2517,
+    "height": 2631,
+    "area": 6622227,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-137",
+    "name": "待确认菜名 IMG_9809__yolo_dish01.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_9809__yolo_dish01.jpg",
+    "sourcePhoto": "IMG_9809.jpg",
+    "bbox": [
+      1251,
+      18,
+      2314,
+      1237
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.232,
+    "width": 1063,
+    "height": 1219,
+    "area": 1295797,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  },
+  {
+    "id": "yolo-candidate-138",
+    "name": "待确认菜名 IMG_9809__yolo_dish02.jpg（LLM复核）",
+    "photo": "/uploads/food-photos-20260311/yolo-splits/IMG_9809__yolo_dish02.jpg",
+    "sourcePhoto": "IMG_9809.jpg",
+    "bbox": [
+      108,
+      1216,
+      2415,
+      3996
+    ],
+    "category": "其他",
+    "tags": [
+      "YOLO分割",
+      "LLM复核",
+      "待人工确认"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "待确认主食材",
+      "辅料待补充"
+    ],
+    "steps": [
+      "待确认菜名后补齐做法"
+    ],
+    "nutritionNote": "待确认",
+    "needsConfirm": true,
+    "detector": "yolo-worldv2",
+    "confidence": 0.8005,
+    "width": 2307,
+    "height": 2780,
+    "area": 6413460,
+    "autoCategory": "主菜",
+    "autoAnalysis": "自动判定为单道菜候选",
+    "llmRecognition": {
+      "status": "uncertain",
+      "method": "local_read_tool_vision",
+      "note": "已使用本地视觉复核，但无法可靠判断具体菜名，保守回写待人工确认。"
+    }
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "id": "dish-001",
+    "name": "西班牙火腿薯条小菜",
+    "photo": "/images/spanish-ham-fries.jpg",
+    "category": "小食",
+    "tags": [
+      "快手",
+      "补能量",
+      "碳水",
+      "咸香"
+    ],
+    "prepTimeMin": 20,
+    "difficulty": "简单",
+    "caloriesKcal": 520,
+    "ingredients": [
+      "土豆 2个",
+      "西班牙火腿 50g",
+      "橄榄油 1-2勺",
+      "黑胡椒 少许",
+      "盐 少许"
+    ],
+    "steps": [
+      "土豆切条后擦干水分，少油煎或空气炸至金黄。",
+      "西班牙火腿切小片，小火翻热出香气。",
+      "混合薯条与火腿，撒黑胡椒即可。"
+    ],
+    "nutritionNote": "高能量小食，建议搭配蔬果一起吃。"
+  },
+  {
+    "id": "dish-002",
+    "name": "黑胡椒牛肉片",
+    "photo": "/images/black-pepper-beef.jpg",
+    "category": "主菜",
+    "tags": [
+      "高蛋白",
+      "快手",
+      "增肌友好"
+    ],
+    "prepTimeMin": 18,
+    "difficulty": "简单",
+    "caloriesKcal": 430,
+    "ingredients": [
+      "牛肉片/牛排 250g",
+      "黑胡椒 1小勺",
+      "蒜末 少许",
+      "黄油/橄榄油 1勺",
+      "盐 少许"
+    ],
+    "steps": [
+      "牛肉提前回温，表面擦干，撒盐和黑胡椒。",
+      "热锅下油，双面煎至喜欢熟度。",
+      "静置2分钟后切片装盘，补撒黑胡椒。"
+    ],
+    "nutritionNote": "优质蛋白来源，晚饭搭配蔬果更均衡。"
+  },
+  {
+    "id": "dish-003",
+    "name": "三色圣女果拼盘",
+    "photo": "/images/cherry-tomato-platter.jpg",
+    "category": "配菜",
+    "tags": [
+      "低卡",
+      "清爽",
+      "免烹饪"
+    ],
+    "prepTimeMin": 5,
+    "difficulty": "简单",
+    "caloriesKcal": 90,
+    "ingredients": [
+      "红色圣女果 100g",
+      "黄色圣女果 100g",
+      "绿色圣女果 100g"
+    ],
+    "steps": [
+      "清洗沥干后对半切或整颗装盘。",
+      "可根据口味加少许盐或黑胡椒。"
+    ],
+    "nutritionNote": "低卡高纤，适合搭配高蛋白主菜。"
+  },
+  {
+    "id": "dish-004",
+    "name": "草莓蓝莓水果拼盘",
+    "photo": "/images/berry-platter.jpg",
+    "category": "水果",
+    "tags": [
+      "低卡",
+      "抗氧化",
+      "免烹饪"
+    ],
+    "prepTimeMin": 5,
+    "difficulty": "简单",
+    "caloriesKcal": 120,
+    "ingredients": [
+      "草莓 150g",
+      "蓝莓 80g"
+    ],
+    "steps": [
+      "草莓洗净去蒂，蓝莓洗净沥干。",
+      "摆盘后即食。"
+    ],
+    "nutritionNote": "适合做晚饭后水果。"
+  },
+  {
+    "id": "dish-draft-001",
+    "name": "待确认菜名 IMG_4331",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_4331.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_4331.HEIC",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-002",
+    "name": "待确认菜名 IMG_4298",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_4298.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_4298.heic",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-003",
+    "name": "待确认菜名 IMG_4611",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_4611.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_4611.HEIC",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-004",
+    "name": "待确认菜名 IMG_4294",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_4294.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_4294.HEIC",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-005",
+    "name": "待确认菜名 IMG_4297",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_4297.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_4297.heic",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-006",
+    "name": "待确认菜名 IMG_2839",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_2839.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_2839.HEIC",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-007",
+    "name": "蒜蓉虾配荷兰豆玉米",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_6964.jpg",
+    "category": "主菜",
+    "tags": [
+      "海鲜",
+      "高蛋白",
+      "快手",
+      "低负担"
+    ],
+    "prepTimeMin": 22,
+    "difficulty": "简单",
+    "caloriesKcal": 460,
+    "ingredients": [
+      "鲜虾 10-12只",
+      "荷兰豆 150g",
+      "玉米 1根",
+      "蒜末 2瓣",
+      "橄榄油 1勺",
+      "盐和黑胡椒 适量"
+    ],
+    "steps": [
+      "虾去虾线后加少许盐和黑胡椒抓匀，静置5分钟。",
+      "荷兰豆焯水1分钟后捞出，玉米蒸熟切段。",
+      "热锅下油爆香蒜末，放入鲜虾翻炒至变色卷曲。",
+      "将荷兰豆和玉米回锅，快速翻匀后出锅。"
+    ],
+    "nutritionNote": "高蛋白、膳食纤维充足，适合工作日晚饭。",
+    "draft": false,
+    "sourcePhoto": "IMG_6964.HEIC",
+    "convertedJpg": true
+  },
+  {
+    "id": "dish-draft-008",
+    "name": "待确认菜名 IMG_6813",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_6813.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_6813.heic",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-009",
+    "name": "待确认菜名 IMG_8234",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_8234.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_8234.HEIC",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-010",
+    "name": "待确认菜名 IMG_5197",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_5197.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_5197.heic",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-011",
+    "name": "待确认菜名 IMG_9399",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_9399.jpg",
+    "category": "其他",
+    "tags": [
+      "待确认菜名",
+      "自动补齐",
+      "多菜原图",
+      "LLM复核"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 450,
+    "ingredients": [
+      "主食材（按照片确认）",
+      "辅料（按照片确认）",
+      "蒜末/姜末 适量",
+      "盐和黑胡椒 适量",
+      "食用油 1勺"
+    ],
+    "steps": [
+      "按照片确认菜名与主食材后再细化做法。",
+      "主食材处理后加基础调味（盐/黑胡椒）。",
+      "中火翻炒或煎制至熟，按口味补充调味。"
+    ],
+    "nutritionNote": "待确认菜品后补充准确营养信息。",
+    "draft": false,
+    "sourcePhoto": "IMG_9399.HEIC",
+    "convertedJpg": true,
+    "needsConfirm": true,
+    "excludedFromFinal": true,
+    "excludeReason": "multi_dish_original_llm_verified",
+    "finalImage": false
+  },
+  {
+    "id": "dish-draft-012",
+    "name": "韩式牛肉紫菜包饭",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_9809.jpg",
+    "category": "主食",
+    "tags": [
+      "一卷搞定",
+      "主食",
+      "便携",
+      "快手"
+    ],
+    "prepTimeMin": 30,
+    "difficulty": "中等",
+    "caloriesKcal": 520,
+    "ingredients": [
+      "紫菜 2张",
+      "米饭 250g",
+      "牛肉丝 120g",
+      "胡萝卜丝 50g",
+      "黄瓜丝 50g",
+      "菠菜 50g",
+      "香油 1小勺"
+    ],
+    "steps": [
+      "牛肉丝加少许生抽和黑胡椒腌10分钟后炒熟。",
+      "胡萝卜、菠菜分别焯熟，黄瓜切丝备用。",
+      "米饭趁温热拌少许盐和香油，平铺在紫菜上。",
+      "依次放入配菜和牛肉，卷紧后切段装盘。"
+    ],
+    "nutritionNote": "碳水与蛋白搭配均衡，适合作为一餐主食。",
+    "draft": false,
+    "sourcePhoto": "IMG_9809.HEIC",
+    "convertedJpg": true
+  },
+  {
+    "id": "dish-005",
+    "name": "可颂火腿芝麻菜轻食盘",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_3223.jpg",
+    "category": "轻食",
+    "tags": [
+      "西式",
+      "早餐/晚简餐",
+      "快手"
+    ],
+    "prepTimeMin": 12,
+    "difficulty": "简单",
+    "caloriesKcal": 610,
+    "ingredients": [
+      "黄油可颂 2个",
+      "意式火腿 50g",
+      "布拉塔/马苏里拉 80g",
+      "芝麻菜 1把",
+      "黑咖啡 1杯"
+    ],
+    "steps": [
+      "可颂回烤3-4分钟提升酥脆口感。",
+      "芝麻菜拌少许橄榄油与盐。",
+      "火腿与奶酪装盘，搭配可颂与咖啡即可。"
+    ],
+    "nutritionNote": "满足感强，建议搭配蔬菜和少量水果。"
+  },
+  {
+    "id": "dish-006",
+    "name": "香煎三文鱼配西兰花苗",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_6275.jpg",
+    "category": "主菜",
+    "tags": [
+      "高蛋白",
+      "低卡",
+      "一盘餐"
+    ],
+    "prepTimeMin": 25,
+    "difficulty": "简单",
+    "caloriesKcal": 540,
+    "ingredients": [
+      "三文鱼 180g",
+      "西兰花苗 150g",
+      "米饭 1小碗",
+      "泡菜 80g",
+      "盐和黑胡椒 适量"
+    ],
+    "steps": [
+      "三文鱼擦干后加盐和黑胡椒，平底锅中火煎至两面金黄。",
+      "西兰花苗焯水后加少许盐拌匀。",
+      "搭配少量米饭和泡菜装盘即可。"
+    ],
+    "nutritionNote": "富含Omega-3，适合控脂期补充优质脂肪。"
+  },
+  {
+    "id": "dish-007",
+    "name": "蒜香牛排丁拌蛋黄",
+    "photo": "/uploads/food-photos-20260311/jpg/IMG_7782.jpg",
+    "category": "主菜",
+    "tags": [
+      "高蛋白",
+      "增肌友好",
+      "重口味"
+    ],
+    "prepTimeMin": 20,
+    "difficulty": "中等",
+    "caloriesKcal": 620,
+    "ingredients": [
+      "牛排 220g",
+      "蛋黄 1个",
+      "蒜末 3瓣",
+      "欧芹/香菜末 适量",
+      "橄榄油 1勺",
+      "盐和黑胡椒 适量"
+    ],
+    "steps": [
+      "牛排切块，加盐和黑胡椒腌制5分钟。",
+      "热锅煎牛排丁至表面焦香，内部保留汁水。",
+      "蒜末与香草末加橄榄油拌成蒜香酱。",
+      "牛排出锅后淋蒜香酱，中间放蛋黄拌匀食用。"
+    ],
+    "nutritionNote": "蛋白质和铁含量高，训练后食用更友好。"
+  }
+]

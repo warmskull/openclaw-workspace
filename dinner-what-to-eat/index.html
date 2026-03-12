@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>晚饭吃什么</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>🍽️ 晚饭吃什么</h1>
+      <p>家庭菜谱库 + 晚饭推荐（支持一图多菜分割）</p>
+      <p><a href="/split.html" style="color:#dbeafe;">单图多菜切图工具</a></p>
+    </header>
+
+    <main class="container">
+      <section class="panel">
+        <h2>数据总览</h2>
+        <div id="dataSummary" class="summary-grid"></div>
+      </section>
+
+      <section class="panel">
+        <h2>今晚情况</h2>
+        <div class="grid">
+          <label>
+            可用时间
+            <select id="timeLimit">
+              <option value="15">15 分钟内</option>
+              <option value="30" selected>30 分钟内</option>
+              <option value="60">60 分钟内</option>
+            </select>
+          </label>
+          <label>
+            目标
+            <select id="goal">
+              <option value="减脂">减脂</option>
+              <option value="均衡" selected>均衡</option>
+              <option value="补能量">补能量</option>
+            </select>
+          </label>
+          <label>
+            分类筛选
+            <select id="category">
+              <option value="全部" selected>全部</option>
+              <option value="主菜">主菜</option>
+              <option value="主食">主食</option>
+              <option value="小食">小食</option>
+              <option value="配菜">配菜</option>
+              <option value="水果">水果</option>
+              <option value="轻食">轻食</option>
+            </select>
+          </label>
+          <label>
+            现有食材（逗号分隔）
+            <input id="ingredientsInput" placeholder="比如：牛肉, 圣女果, 草莓" />
+          </label>
+        </div>
+        <div class="checks">
+          <label><input type="checkbox" id="quickOnly" /> 只看快手菜（≤20 分钟）</label>
+          <label><input type="checkbox" id="lowCal" /> 优先低卡（每道 ≤300 kcal）</label>
+        </div>
+        <div class="actions">
+          <button id="btnRecommend">给我推荐晚饭</button>
+          <button id="btnPlan" class="secondary">生成 3 套参考方案</button>
+          <button id="btnRandom" class="ghost">随机推荐一道</button>
+          <button id="btnReset" class="ghost">重置筛选</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>推荐结果</h2>
+        <div id="recommendation" class="recommendation empty">点击“给我推荐晚饭”开始</div>
+      </section>
+
+      <section class="panel">
+        <h2>初步推荐方案（供你决策）</h2>
+        <div id="planPreview" class="plan-grid"></div>
+      </section>
+
+      <section class="panel">
+        <h2>素材导入状态</h2>
+        <div id="photoImportStatus" class="recommendation empty">加载中...</div>
+      </section>
+
+      <section class="panel">
+        <h2>已转换 JPG 可视化（本次导入）</h2>
+        <div id="jpgGallery" class="jpg-gallery"></div>
+      </section>
+
+      <section class="panel">
+        <h2>全部菜谱</h2>
+        <div id="dishList" class="cards"></div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
