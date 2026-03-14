@@ -264,6 +264,17 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 
 **文字变化 ≠ 行为变化。**
 
+## 夜间任务区分 — 用户 vs 助手 (LRN-20260308-003)
+
+当用户问"晚上固定任务"时，默认输出：
+
+1. **助手后台任务**（用户夜间休息）：巡检/同步/整理类工作
+2. **次晨汇总提醒**（可静默）
+3. **明确区分**："用户要做" vs "助手代做"
+
+❌ 错误：给用户安排夜间训练
+✅ 正确：助手承担后台任务，用户安心睡觉
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.

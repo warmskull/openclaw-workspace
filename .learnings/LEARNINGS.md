@@ -60,7 +60,8 @@
 
 **Logged**: 2026-03-08T21:49:00+08:00
 **Priority**: high
-**Status**: pending
+**Status**: promoted
+**Promoted**: AGENTS.md
 **Area**: docs
 
 ### Summary
